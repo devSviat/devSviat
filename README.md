@@ -28,6 +28,7 @@
 
 ### 📫 Reach Me
 - **GitHub:** [devSviat](https://github.com/devSviat) – Explore my repositories and contributions.
+- **Email:**  [devsviat@proton.me](mailto:devsviat@proton.me)
 
 ### ⚡ Fun Fact
 - **Problem Solver:** I enjoy breaking down complex issues and finding elegant solutions.
