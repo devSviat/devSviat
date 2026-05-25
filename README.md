@@ -1,28 +1,31 @@
 ## 👋 Hi, I'm @devSviat
 
-Full-stack web developer. I build APIs in PHP and ship UIs in TypeScript.
+Full-stack developer building APIs, integrations, and scalable web applications with PHP, TypeScript, Go, and Python.
 
-### 🛠️ Stack
+### 🧰 Tech Stack
 
-- **Backend:** PHP (Laravel, Symfony), Python (Django, Flask)
-- **Frontend:** TypeScript, Next.js, React, Vue
-- **Infra:** Docker, PostgreSQL, Redis, CI/CD
-- **Patterns:** REST APIs, SPA, headless architectures (Symfony API + Next.js / React)
+- **Backend:** PHP (Laravel, Symfony), Go, Python (Django, Flask)
+- **Frontend:** React, Next.js, TypeScript, Vue
+- **Databases:** MySQL, PostgreSQL, Redis
+- **Infrastructure:** Docker, CI/CD
+- **Architecture:** REST APIs, SPA, headless commerce, Symfony APIs, microservices in Go & Python
 
-### 🌱 Currently exploring
+### 🛒 Domain experience
 
-Advanced Symfony internals · Next.js App Router · caching strategies with Redis · Python for data tasks
+Experience building and integrating e-commerce systems: payments, shipping & delivery, order management, and customer communications. Skilled in third-party integrations and end-to-end business process automation.
 
-### 💞️ Open to collaborate on
+### 📚 Currently exploring
 
-Open-source projects in PHP, Python, and Docker tooling. Happy to help with API design, headless setups, or dev tutorials.
+Advanced Symfony internals · Go concurrency patterns · AI-assisted development workflows
 
-### 📫 Reach me
+### 🤝 Collaboration
+
+Open to collaboration and open-source contributions in PHP, Go, Python, and Docker-related projects.
+
+### ✉️ Reach me
 
 📧 [devsviat@proton.me](mailto:devsviat@proton.me)
 
-### 📊 GitHub Stats
+---
 
-![devSviat's stats](https://github-readme-stats-sigma-five.vercel.app/api?username=devSviat&show_icons=true&theme=onedark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devSviat&layout=compact&theme=onedark&hide_border=true&langs_count=8)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
