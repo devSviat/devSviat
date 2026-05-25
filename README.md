@@ -23,10 +23,6 @@ Open-source projects in PHP, Python, and Docker tooling. Happy to help with API 
 
 ### 📊 GitHub Stats
 
-![devSviat's stats](https://github-readme-stats.vercel.app/api?username=devSviat&show_icons=true&theme=onedark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devSviat&layout=compact&theme=onedark&hide_border=true&langs_count=8)
-
 ![Streak](https://streak-stats.demolab.com/?user=devSviat&theme=onedark&hide_border=true)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=devSviat&theme=onedark&no-frame=true&column=7)
