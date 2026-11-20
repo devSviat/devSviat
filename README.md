@@ -26,12 +26,10 @@ I like learning new things, and that is why the stack below is wide. I'm not equ
 
 ### Stack
 
-| | |
-|---|---|
-| Backend | Go, Rust, PHP, Python |
-| Frontend | TypeScript, React, Next.js, TanStack, Vite, Tailwind, Astro |
-| Data | PostgreSQL, MySQL, Redis |
-| Infra | Docker, Caddy, Nginx, GitHub Actions, Tailscale |
+- **Backend:** Go, Rust, PHP, Python
+- **Frontend:** TypeScript, React, Next.js, TanStack, Vite, Tailwind, Astro
+- **Data:** PostgreSQL, MySQL, Redis
+- **Infra:** Docker, Caddy, Nginx, GitHub Actions, Tailscale
 
 ### Contact
 
