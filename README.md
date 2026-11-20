@@ -1,30 +1,41 @@
-## 👋 Hi, I'm @devSviat
+## Hi, I'm Sviat
 
-Full-stack developer building APIs, integrations, and scalable web applications with PHP, TypeScript, Go, and Python.
+Full-stack developer from Ukraine. I build e-commerce and internal business systems: online stores, CRMs, CMSs and back offices, together with their payment, delivery and marketplace integrations.
 
-### 🧰 Tech Stack
+### Recent work
 
-- **Backend:** PHP (Laravel, Symfony), Go, Python (Django, Flask)
-- **Frontend:** React, Next.js, TypeScript, Vue
-- **Databases:** MySQL, PostgreSQL, Redis
-- **Infrastructure:** Docker, CI/CD
-- **Architecture:** REST APIs, SPA, headless commerce, Symfony APIs, microservices in Go & Python
+- **B2B and B2C online store.** Storefront, admin panel, B2B pricing, orders and delivery.
+- **Management accounting system.** Double-entry ledger, multi-currency, profit reports, budgets.
+- **Logistics back office.** Multi-company invoicing, tariffs, waybills.
+- **Corporate website.** Headless CMS, static build.
 
-### 🛒 Domain experience
+### How I build
 
-Experience building and integrating e-commerce systems: payments, shipping & delivery, order management, and customer communications. Skilled in third-party integrations and end-to-end business process automation.
+- **DDD.** Modules follow business domains and own their data; tests check the boundaries. Domain logic is free of I/O.
+- **Modular monolith by default.** I have run microservices in production; now I split a service out only when there is a concrete reason.
+- **Money.** Integer minor units, append-only ledger, invariants enforced by the database.
+- **Contract-first API.** TypeScript types are generated from the OpenAPI spec, and CI fails when they drift.
+- **Tests.** Integration tests against a real PostgreSQL, end-to-end tests with Playwright.
+- **AI-assisted workflow.** AI coding tools are part of my daily work, but the developer stays in charge: I write the spec and plan, review every change, security included, and nothing is committed without verification.
 
-### 📚 Currently exploring
+### Background
 
-Advanced Symfony internals · Go concurrency patterns · AI-assisted development workflows
+I started as a designer: logos first, then UI/UX and website mockups. Over time I wanted to build those sites myself, so I moved into frontend. JavaScript was my first language, and PHP followed, since the CMSs I worked with all ran on it. I built sites and online stores on Joomla, WordPress, OpenCart, Magento and OkayCMS.
 
-### 🤝 Collaboration
+I like learning new things, and that is why the stack below is wide. I'm not equally deep in every language, but I know how each one works and when to use it. The same applies to architecture and patterns: I pick them per project.
 
-Open to collaboration and open-source contributions in PHP, Go, Python, and Docker-related projects.
+### Stack
 
-### ✉️ Reach me
+| | |
+|---|---|
+| Backend | Go, Rust, PHP, Python |
+| Frontend | TypeScript, React, Next.js, TanStack, Vite, Tailwind, Astro |
+| Data | PostgreSQL, MySQL, Redis |
+| Infra | Docker, Caddy, Nginx, GitHub Actions, Tailscale |
 
-📧 [devsviat@proton.me](mailto:devsviat@proton.me)
+### Contact
+
+[devsviat@proton.me](mailto:devsviat@proton.me) · Ukrainian, English
 
 ---
 
