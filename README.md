@@ -31,7 +31,7 @@ I like learning new things, and that is why the stack below is wide. I'm not equ
 | Backend | Go, Rust, PHP, Python |
 | Frontend | TypeScript, React, Next.js, TanStack, Vite, Tailwind, Astro |
 | Data | PostgreSQL, MySQL, Redis |
-| Infra | Docker, Caddy, Nginx, GitHub Actions, Tailscale |
+| Infra | Docker, Caddy, Nginx, Tailscale, CI/CD (GitHub Actions, GitLab CI, Jenkins) |
 
 ### Contact
 
